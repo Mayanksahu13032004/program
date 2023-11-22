@@ -1,2 +1,2 @@
 # program
-this is demo
+this is demo for web
